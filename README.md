@@ -1,7 +1,7 @@
 ## VendasPDV
 ### Sistema de vendas com PDV
 
-sistema ainda em desenvolvimento, más tenho uma Demo JAR executavel para fins de teste
+sistema ainda em desenvolvimento para fins acadêmicos, más tenho uma Demo JAR executavel para fins de teste 
 #### Login = admin
 #### Senha = admin
 
