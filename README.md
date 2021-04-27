@@ -1,4 +1,4 @@
-## VendasPDV
+## VendasPDV em JAVA Desktop
 ### Sistema de vendas com PDV, utilizando o banco de dados Mysql para fins acadêmicos
 
 #### Referência do canal BLSoft Simplesmente Java, cujo o link da playlist =>> https://youtu.be/IA7xdtbUTfo
