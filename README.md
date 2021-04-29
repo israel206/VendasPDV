@@ -1,15 +1,81 @@
-## VendasPDV em JAVA Desktop
-### Sistema de vendas com PDV, utilizando o banco de dados Mysql para fins acadêmicos
+<h1 align="center">
+  <img alt="Sistema de Vendas PDV" src="" />
+</h1>
 
-#### Referência do canal BLSoft Simplesmente Java, cujo o link da playlist =>> https://youtu.be/IA7xdtbUTfo
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-### Estes sistema ainda esta em desenvolvimento, más tem uma Demo JAR executavel para teste
-### Login do Sistema
-#### Login = admin
-#### Senha = admin
+<p align="center">
+
+  [![Author](https://img.shields.io/badge/author-IsraelSilva-8257E5?style=flat-square)](https://github.com/israel206)
+  [![Languages](https://img.shields.io/github/languages/count/israel206/move?color=%238257E5&style=flat-square)](#)
+  <img src="https://img.shields.io/github/forks/israel206/move?label=forks&message=MIT&color=FFFFFF&labelColor=32B768" alt="Forks">    
+  <img src="https://img.shields.io/github/stars/israel206/move?label=stars&message=MIT&color=FFFFFF&labelColor=32B768" alt="Stars">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Sistema de Vendas PDV" src=".github/Tela-Principal.png" width="90%">
+</p>
+
+
+---
+
+## 🚀 Technologies
+
+This project was developed using the following technologies:
+
+  - [Java](https://www.w3schools.com/java/default.asp)
+  - [SQL](https://www.w3schools.com/sql/default.asp)
+
+## 👨‍💻 Computer: How to run
+
+Clone the project and access the folder
+  ```bash
+    # clone repository
+    $ git clone https://github.com/israel206/VendasPDV.git
+  ```
+---
+
+## 🚀 Getting started
+  - [Executavel](https://github.com/israel206/VendasPDV/tree/main/vendaBL-exe)
+```bash
+    #Testable JAR demo for testing
+    # Working with system
+    # System Login
+    Login = admin
+    Senha = admin
  
- ### Links Para o Projetos para Demo e Verificação da Telas Apresentação
- ### Link de uma Demo https://github.com/israel206/VendasPDV/blob/main/Telas-Cadastros-Vendas-PDV/Tela_PDV.png
- #### [Telas de Apresentação](https://github.com/israel206/VendasPDV/tree/main/Telas-Cadastros-Vendas-PDV)
- #### [Executavel](https://github.com/israel206/VendasPDV/tree/main/vendaBL-exe)
- #### [Codigo fontes](https://github.com/israel206/VendasPDV/tree/main/VendasBL-Codigo)
+```
+---
+
+## 💻 Project
+
+App to always remember to water your plants 🌱
+
+A sales system with stock, using Postgres database, for academic purposes
+
+This is a project developed during the **[Sistema de Vendas](https://youtu.be/IA7xdtbUTfo)**, presented by **[canal BLSoft Simplesmente Java](https://www.youtube.com/user/brleification)** during 2018.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+---
+
+Feito com ♥ by Israel Silva
+
+[ts]: https://www.typescriptlang.org
+[vscode]: https://code.visualstudio.com/
+[yarn]: https://yarnpkg.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
