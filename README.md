@@ -33,7 +33,6 @@
 This project was developed using the following technologies:
 
   - [Java](https://www.w3schools.com/java/default.asp)
-  - [SQL](https://www.w3schools.com/sql/default.asp)
 
 ## 👨‍💻 Computer: How to run
 
