@@ -59,8 +59,6 @@ Clone the project and access the folder
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
-
 A sales system with stock, using Postgres database, for academic purposes
 
 This is a project developed during the **[Sistema de Vendas](https://youtu.be/IA7xdtbUTfo)**, presented by **[canal BLSoft Simplesmente Java](https://www.youtube.com/user/brleification)** during 2018.
